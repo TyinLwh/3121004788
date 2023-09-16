@@ -1,0 +1,5 @@
+ori.txt与ori_add.txt的相似度：61.39%
+ori.txt与ori_add.txt的相似度：61.39%
+ori.txt与ori_add.txt的相似度：100.00%
+ori.txt与ori_add.txt的相似度：61.39%
+ori.txt与ori_add.txt的相似度：61.39%
